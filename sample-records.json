@@ -1,0 +1,10 @@
+[
+  {
+    "studentId": "ICTAK-001",
+    "name": "Neha Thomas",
+    "email": "neha@example.com",
+    "course": "BSc Computer Science",
+    "attendance": 92,
+    "marks": 86
+  }
+]
